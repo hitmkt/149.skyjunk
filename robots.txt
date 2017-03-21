@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://skyjunk.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
